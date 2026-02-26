@@ -1,0 +1,3 @@
+hellocoder78_db_user: ussername
+w4AgGXl0SMMGaAo6: password
+MONGO_URI=mongodb+srv://hellocoder78_db_user:w4AgGXl0SMMGaAo6@cluster1.t1biaiy.mongodb.net/taskmanager?retryWrites=true&w=majority : connection string
